@@ -5,7 +5,6 @@ This script processes either a single paper (PDF) file or a folder of papers, su
 
 ## Features:
 - **PDF Folder Input**: Allows processing a folder of PDF files instead of a single file.
-- **Detailed Summarization**: Every PDF is summarized in detail, with no need for a `--detailed` flag.
 - **Voice for Podcast**: Uses `pyttsx3` to convert the summarized text into an MP3 file with a voice.
 - **Customizable Prompts**: You can pass a custom prompt for the summarization process.
 
