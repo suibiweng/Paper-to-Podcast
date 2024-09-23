@@ -55,10 +55,8 @@ paper_to_podcast_url.py
 
 URL must be from Arxiv, IEEE Xplore, or ACM.
 
+Run the script:
+```bash
+python paper_to_podcast_url.py "https://ieeexplore.ieee.org/document/XXXXX"
+```
 
-
-
-
-## License
-
-This project is licensed under the MIT License.
