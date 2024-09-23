@@ -1,0 +1,4 @@
+
+pymupdf
+pyttsx3
+openai
