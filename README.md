@@ -21,6 +21,37 @@ pip install -r requirements.txt
 - `pyttsx3`: For converting text to speech (offline).
 - `openai`: For accessing the OpenAI GPT API.
 
+
+## Getting OpenAI ChatGPT API Key
+
+Follow these steps to get an API key for OpenAI's ChatGPT.
+
+1. Sign Up or Log In
+
+Visit [OpenAI's platform](https://platform.openai.com/signup) and either create a new account or log in if you already have one.
+
+2. Access the API Keys Section
+
+Once logged in, follow these steps:
+- Click on your profile avatar in the top-right corner.
+- From the dropdown, select **"API keys"**.
+
+3. Create a New API Key
+
+- Click **"Create new secret key"**.
+- This will generate a new API key for you.
+
+4. Save the API Key
+
+- Copy the API key and store it securely. You will **not** be able to view it again later.
+- If you lose the API key, you will need to generate a new one.
+Once you have the API key, you can use it to access OpenAI's API and integrate it into your applications.
+
+For more information, visit the [OpenAI API Documentation](https://platform.openai.com/docs).
+
+
+
+
 ## Usage
 
 1. Set your OpenAI API key in the script:
